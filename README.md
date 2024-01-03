@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank SQL Interview Prep.
+HackerRank SQL Interview Prep. + Practice

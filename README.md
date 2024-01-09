@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank SQL Interview Prep. (Practice + Mock Tests)
+HackerRank + LeetCode SQL Interview Prep. (Practice + Mock Tests)
